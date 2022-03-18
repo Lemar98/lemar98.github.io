@@ -1,0 +1,11 @@
+body {
+	background: url('image.gif') repeat-y 55% 65% fixed;
+	background-size: cover;
+	height:100%;
+    width:100%;
+}
+
+audio {
+	position:fixed;
+	bottom: 10px;
+}
